@@ -1,0 +1,31 @@
+.title-list{
+    font-size: 2rem;
+}
+.list{
+    margin-top: 5rem;
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.movie-body{
+    display: flex;
+    width:100vw;
+}
+ul, li{
+    margin: 1rem;
+}
+
+button{
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    color: rgb(241, 241, 66);
+    font-size: 1.12rem;
+}

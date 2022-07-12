@@ -1,0 +1,102 @@
+[
+  {
+    "id":0,
+    "name": "Lord of the rings: fellowship of the ring",
+    "img": "https://img.fruugo.com/product/2/73/14626732_max.jpg",
+    "description": "In the Second Age of Middle-earth, the lords of Elves, Dwarves, Men are given Rings of Power. Unbeknownst to them, the Dark Lord Sauron forges the One Ring in Mount Doom, instilling into it a great part of his power, in order to dominate the other Rings so he might conquer Middle-earth. A final alliance of Men and Elves battles Sauron's forces in Mordor. Isildur of Gondor severs Sauron's finger and the Ring with it, thereby vanquishing Sauron and returning him to spirit form. With Sauron's first defeat, the Third Age of Middle-earth begins. The Ring's influence corrupts Isildur, who takes it for himself and is later killed by Orcs.",
+    "year": "2002",
+    "likes": 123,
+    "dislikes": 11,
+    "reviews": ["lorem ip"]
+  },
+  {
+    "id":1,
+    "name": "Lord of the rings: the two towers",
+    "img": "https://sm.ign.com/ign_latam/movie/t/the-lord-o/the-lord-of-the-rings-the-two-towers-1_rzmy.jpg",
+    "description": "Awakening from a dream of Gandalf fighting the Balrog in Moria, Frodo Baggins and Samwise Gamgee find themselves lost in the Emyn Muil near Mordor and discover they are being tracked by Gollum, a former bearer of the One Ring. Capturing Gollum, Frodo takes pity and allows him to guide them, reminding Sam that they will need Gollum's help to infiltrate Mordor. ",
+    "year": "2004",
+    "likes": 200,
+    "dislikes": 10,
+    "reviews": ["lorem ipsum dolor amet"]
+  },
+  {
+    "id":2,
+    "name": "Lord of the rings: the return of the king",
+    "img": "https://gepig.com/game_cover_460w/1595.jpg",
+    "description": "The hobbit Sméagol is fishing with his cousin Déagol, who discovers the One Ring in the river. Sméagol's mind is ensnared by the Ring, and he kills his cousin for it. Increasingly corrupted physically and mentally, he retreats into the Misty Mountains and becomes known as Gollum. ",
+    "year": "2006",
+    "likes": 330,
+    "dislikes": 10,
+    "reviews": ["great movie"]
+  },
+  {
+    "id":3,
+    "name": "Top gun",
+    "img":"https://images-na.ssl-images-amazon.com/images/I/81CRS9fbUUL._RI_.jpg",
+    "description": "movie of planes with tom cruise as Maverick",
+    "year": "1985",
+    "likes": 110,
+    "dislikes": 10,
+    "reviews": ["pochoclos"]
+  },
+  {
+    "id":4,
+    "name": "Scary Movie",
+    "description": "Comedy and terror movie",
+    "img":"https://www.themoviedb.org/t/p/w500/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+    "year": "2000",
+    "likes": 10,
+    "dislikes": 20,
+    "reviews": ["funny"]
+  },
+  {
+    "id":5,
+    "name": "Forrest Gump",
+    "description": "Tom Hanks is Forrest, a boy from a little town with some mental problems, but with a lot of will he achieve his goals, also is a great comedy with drama ",
+    "img":"https://m.media-amazon.com/images/I/81J1rycHoeL._AC_SY550_.jpg",
+    "year": "1994",
+    "likes": 1110,
+    "dislikes": 1,
+    "reviews": ["lorem ipsum"]
+  },
+  {
+    "id":6,
+    "name": "Harry Potter",
+    "img":"https://phantom-marca.unidadeditorial.es/b5dfeaec2f49e5bf78b3b8edeaf9b757/resize/1320/f/jpg/assets/multimedia/imagenes/2022/04/10/16495856593035.jpg",
+    "description": "Harry is a famous mage and is acepted to study in Hogwartz a school of magic and sorcery, in that place his adventures begin",
+    "year": "2007",
+    "likes": 220,
+    "dislikes": 20,
+    "reviews": ["lorem ipsum dol"]
+  },
+  {
+    "id":7,
+    "name": "Alien",
+    "img": "https://i.blogs.es/1db080/alien/1366_2000.jpeg",
+    "description": "in a distant future a spaceship meets an alien, then this creature begin to hunt the crew",
+    "year": "1976",
+    "likes": 660,
+    "dislikes": 20,
+    "reviews": ["lorem ipsum dol"]
+  },
+  {
+    "id":8,
+    "name": "The godfather",
+    "img":"https://polacocina.com/wp-content/uploads/2020/06/La-pasta-a-la-bolon%CC%83esa-de-The-Godfather.jpg",
+    "description": "maybe the great film in history, tell the story of the italian american family thtat is involved in mafia things, like murderers and illegal sales",
+    "year": "1975",
+    "likes": 1110,
+    "dislikes": 10,
+    "reviews": ["lorem"]
+  },
+  {
+    "id":9,
+    "name": "the lion king",
+    "img": "https://thecouch.world/wp-content/uploads/2020/09/p14113286_v_h10_af.jpg",
+    "description": "a disney movie, that take place in africa",
+    "year": "1997",
+    "likes": 110,
+    "dislikes": 10,
+    "reviews": ["lorem imsdas"]
+  }
+]

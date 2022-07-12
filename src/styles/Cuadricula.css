@@ -1,0 +1,31 @@
+.cuadricula{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.contenedor {
+    width: 15rem;
+    height: 15rem;
+    margin: 1rem;
+    padding: 0.4rem;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+.contenedor:hover{
+    border: 5px solid rgb(255, 249, 68);
+    background-color: rgb(50, 46, 87);
+}
+
+.image{
+    border-radius: 20px 20px 0 0;
+    background-position: contain;
+    width: 15rem;
+    height: 11.5rem;
+}
+
+.text-title{
+    text-align: center;
+    margin: 0.2rem;
+    background-color: rgba(255, 255, 255, 0);
+}
